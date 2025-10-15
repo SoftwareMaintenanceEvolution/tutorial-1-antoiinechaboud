@@ -3,7 +3,7 @@
 Hi! I'm Antoine Chaboud, a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](photo Antoine Github.PNG)  <!-- Link to the uploaded image -->
+![My Image]("./photo Antoine Github.PNG")  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
