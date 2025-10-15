@@ -5,8 +5,6 @@ I [expect to learn a lot about modern software maintenance practices and how to 
 
 ![My Image](photoAntoineGithub.PNG")  <!-- Link to the uploaded image -->
 
-## GitHub Profile
-
 
 👨‍💻 About Me
 I’m a third-year computer science student at ECE Lyon, passionate about software development and always eager to learn new technologies. My journey so far has included projects in PHP, JavaScript, Python, and C, and I’m constantly looking for ways to improve my skills and contribute to meaningful projects.
@@ -20,6 +18,8 @@ Open-source projects, innovative web applications, or any initiative that challe
 My experiences with PHP, JavaScript, Python, or C, or how I approach problem-solving in software development.
 ⚡ Fun fact:
 I love the process of debugging—it’s like solving a puzzle, and there’s nothing more satisfying than finally fixing that last bug!
+
+## GitHub Profile
 
 You can view my personalized GitHub profile https://github.com/SoftwareMaintenanceEvolution/tutorial-1-antoiinechaboud/edit/profil-upload/README.md
 
